@@ -15,9 +15,9 @@
 
 ### Back-end Developers
 
-| Back-End | Back-End |
-| :---: | :---: |
-| 황정수 | 이가은 |
+| 황정수 | DB설계, 회원가입/로그인, 장바구니, 카테고리별 페이지 | B.E. |
+| --- | --- | --- |
+| 이가은 | DB구현, CSV, 상세페이지, 검색 기능 | P.M. |
 
 
 ### **Front-end Developers**
