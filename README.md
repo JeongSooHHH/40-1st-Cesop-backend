@@ -45,3 +45,4 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+### 회고록 : https://www.notion.so/1-Cesop-1aa608e5652f473385f5dda008bbd63d
